@@ -114,15 +114,12 @@ HAVING SUM(CASE
 WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
 THEN 1 ELSE 0 END) = 0
 ```
-
-
-
-
-
-
-
-
+## DATA VISUALIZATION
 ![](SALESDATA.PNG)
+
+![SALESDATA](https://github.com/user-attachments/assets/0781b2d7-c842-4007-b620-f7bbc402b35c)
+
+
 
 
 
