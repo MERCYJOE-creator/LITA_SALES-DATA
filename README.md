@@ -115,9 +115,8 @@ WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
 THEN 1 ELSE 0 END) = 0
 ```
 ## DATA VISUALIZATION
-![](SALESDATA.PNG)
 
-![SALESDATA](https://github.com/user-attachments/assets/0781b2d7-c842-4007-b620-f7bbc402b35c)
+![EXCELTOTALSALESBYPRDT](https://github.com/user-attachments/assets/3345d08e-2c5c-46c1-a1e8-549ba18dee53)
 
 
 
